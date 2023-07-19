@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "build": "cd node_modules/puppeteer & npm run postinstall"
   },
   "keywords": [],
   "author": "",
